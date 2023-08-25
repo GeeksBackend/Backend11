@@ -31,3 +31,5 @@ def calculator(num1:int=1, num2:int=1, operator:str="+") -> int:
     else:
         return "Такого оператора нету"
 print(calculator(30, 30, "-"))
+
+print("Hello GitHub")
